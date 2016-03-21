@@ -1,0 +1,1 @@
+# platform_external_qemu-pc-bios
